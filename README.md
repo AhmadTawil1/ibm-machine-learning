@@ -1,6 +1,6 @@
 # IBM Machine Learning with Python 🎓
 
-![Certificate](ibm-machine-learning-with-python.png)
+![Certificate](image.png)
 
 [🔗 Verify Certificate](https://coursera.org/verify/6LCA1C1WPLSC)
 
